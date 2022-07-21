@@ -11,4 +11,4 @@ find hiden patterns / valuable insights.
 
 - `job_offers`
 
-- `housing'
+- `housing`
