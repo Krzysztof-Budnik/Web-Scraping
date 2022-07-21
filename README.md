@@ -9,6 +9,8 @@ find hiden patterns / valuable insights.
 
 - `cars`
 
+- `housing`
+
 - `job_offers`
 
-- `housing`
+
