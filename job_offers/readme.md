@@ -1,1 +1,2 @@
-# Job Offer Scraping 
+# Job Offers
+web scraping from nofluffjobs.pl
